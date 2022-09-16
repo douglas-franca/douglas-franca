@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou o Douglas França
 
-<!--
-**douglas-franca/douglas-franca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Estou tentando ingressar como developer
+- 🌱 Estou estudando Flutter
+- 😄 Pronouns: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/douglas-franca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-franca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-franca&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
