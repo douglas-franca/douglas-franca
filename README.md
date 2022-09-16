@@ -7,8 +7,9 @@
 
 <div align="center">
   <a href="https://github.com/douglas-franca">
-  <img height="60%" src="https://github-readme-stats.vercel.app/api?username=douglas-franca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-franca&layout=compact&langs_count=7&theme=dark"/>
+    <img width="60%" src="https://i.postimg.cc/m2tHLmXz/douglas-franca-1.png"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-franca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-franca&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center">
