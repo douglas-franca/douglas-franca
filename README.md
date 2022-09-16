@@ -11,3 +11,6 @@
   <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-franca&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<div align="center">
+  <img src="https://postimg.cc/YhB98zwM"/>
+</div>
