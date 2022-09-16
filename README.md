@@ -12,5 +12,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.postimg.cc/m2tHLmXz/douglas-franca-1.png"/>
+  <img width="60%" src="https://i.postimg.cc/m2tHLmXz/douglas-franca-1.png"/>
 </div>
