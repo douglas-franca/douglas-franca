@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Douglas França
 
 
-- 🔭 Estou tentando ingressar como developer
+- 🔭 Developer Ruby and Angular
 - 🌱 Estou estudando Flutter
 - 😄 Pronouns: ele/dele
 
