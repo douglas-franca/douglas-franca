@@ -3,7 +3,6 @@
 
 - 🔭 Developer Ruby and Angular
 - 🌱 Estou estudando Flutter
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/douglas-franca">
