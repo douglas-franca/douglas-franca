@@ -2,7 +2,6 @@
 
 
 - 🔭 Developer Ruby and Angular
-- 🌱 Estou estudando Flutter
 
 <div align="center">
   <a href="https://github.com/douglas-franca">
